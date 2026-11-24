@@ -4904,6 +4904,14 @@ skeleton = NodePath("")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_014/tree_014_green_0/StaticBody3D" unique_id=1667201692]
 shape = SubResource("ConcavePolygonShape3D_f1cce")
 
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_014" unique_id=1698271051]
+transform = Transform3D(1, 4.656613e-08, 2.2351742e-08, -4.004687e-08, 1.0000001, 2.2351742e-08, 0, 0, 1.0000001, 5.47977, 0.19070005, -0.0059309006)
+stream = ExtResource("14_0ld40")
+max_db = 1.0
+autoplay = true
+max_distance = 30.0
+parameters/looping = true
+
 [node name="tree_013" type="Node3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode" unique_id=1104233774]
 transform = Transform3D(-1.6292068e-07, -1, 0, 1, -1.6292068e-07, 0, 0, 0, 1, 15.807353, 0, -6.6478167)
 metadata/_edit_group_ = true
@@ -4991,6 +4999,14 @@ skeleton = NodePath("")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_010/tree_010_green_0/StaticBody3D" unique_id=582260296]
 shape = SubResource("ConcavePolygonShape3D_poyxq")
+
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_010" unique_id=657822336]
+transform = Transform3D(1, 4.656613e-08, 2.2351742e-08, -4.004687e-08, 1.0000001, 2.2351742e-08, 0, 0, 1.0000001, 5.47977, 0.19070005, -0.0059309006)
+stream = ExtResource("14_0ld40")
+max_db = 1.0
+autoplay = true
+max_distance = 30.0
+parameters/looping = true
 
 [node name="tree_009" type="Node3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode" unique_id=765952159]
 transform = Transform3D(0.057513427, -0.99738264, -0.04381752, 0.9939477, 0.061319694, -0.091147274, 0.0935956, -0.038310118, 0.9948729, 51.872974, 5.01881, 28.840448)
@@ -5124,6 +5140,14 @@ skeleton = NodePath("")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_004/tree_004_green_0/StaticBody3D" unique_id=1653444710]
 shape = SubResource("ConcavePolygonShape3D_av3th")
 
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_004" unique_id=243222979]
+transform = Transform3D(1, 4.656613e-08, 2.2351742e-08, -4.004687e-08, 1.0000001, 2.2351742e-08, 0, 0, 1.0000001, 5.47977, 0.19070005, -0.0059309006)
+stream = ExtResource("14_0ld40")
+max_db = 1.0
+autoplay = true
+max_distance = 30.0
+parameters/looping = true
+
 [node name="tree_003" type="Node3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode" unique_id=258715646]
 transform = Transform3D(-1.6292068e-07, -1, 0, 1, -1.6292068e-07, 0, 0, 0, 1, -16.006676, 0, -14.63098)
 metadata/_edit_group_ = true
@@ -5145,6 +5169,14 @@ skeleton = NodePath("")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_003/tree_003_green_0/StaticBody3D" unique_id=1211204561]
 shape = SubResource("ConcavePolygonShape3D_7g08o")
+
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_003" unique_id=1962755115]
+transform = Transform3D(1, 4.656613e-08, 2.2351742e-08, -4.004687e-08, 1.0000001, 2.2351742e-08, 0, 0, 1.0000001, 5.47977, 0.19070005, -0.0059309006)
+stream = ExtResource("14_0ld40")
+max_db = 1.0
+autoplay = true
+max_distance = 30.0
+parameters/looping = true
 
 [node name="tree_002" type="Node3D" parent="trees/Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode" unique_id=2071963556]
 transform = Transform3D(-1.6292068e-07, -1, 0, 1, -1.6292068e-07, 0, 0, 0, 1, -6.634694, -4.7683716e-07, -13.870966)
