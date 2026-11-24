@@ -1,0 +1,240 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://d3xp8v4ln5llf"
+path="res://.godot/imported/simple_low_poly_trees_and_bushes.glb-59afa78f054362e9a31e19b6fddf3672.scn"
+
+[deps]
+
+source_file="res://assets/simple_low_poly_trees_and_bushes.glb"
+dest_files=["res://.godot/imported/simple_low_poly_trees_and_bushes.glb-59afa78f054362e9a31e19b6fddf3672.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/root_script=null
+mesh_library/use_node_names_as_mesh_names=false
+array_mesh/deduplicate_surfaces=true
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+nodes/use_name_suffixes=true
+nodes/use_node_type_suffixes=true
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path=""
+materials/extract=0
+materials/extract_format=0
+materials/extract_path=""
+_subresources={
+"nodes": {
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_001/bush_001_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_002/bush_002_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_003/bush_003_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_004/bush_004_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_005/bush_005_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_007/bush_007_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_008/bush_008_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/bush_with_modifiers/bush_with_modifiers_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_001/tree_001_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_002/tree_002_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_002/tree_002_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_003/tree_003_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_003/tree_003_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_004/tree_004_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_004/tree_004_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_005/tree_005_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_005/tree_005_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_006/tree_006_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_006/tree_006_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_007/tree_007_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_007/tree_007_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_008/tree_008_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_008/tree_008_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_009/tree_009_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_009/tree_009_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_010/tree_010_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_010/tree_010_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_011/tree_011_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_011/tree_011_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_012/tree_012_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_012/tree_012_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_013/tree_013_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_013/tree_013_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_014/tree_014_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_014/tree_014_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_015/tree_015_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_015/tree_015_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_016/tree_016_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_016/tree_016_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_017/tree_017_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_017/tree_017_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_018/tree_018_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_019/tree_019_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_019/tree_019_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_020/tree_020_green_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_020/tree_020_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_022/tree_022_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:Sketchfab_model/e1298ee3a15b4673bf4b2dd6be9c3fd5_fbx/RootNode/tree_023/tree_023_wood_0": {
+"generate/physics": true,
+"physics/shape_type": 2
+}
+}
+}
+gltf/naming_version=2
+gltf/embedded_image_handling=1
+gltf/texture_map_mode=1
